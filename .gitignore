@@ -11,6 +11,9 @@ Thumbs.db
 Desktop.ini
 $RECYCLE.BIN/
 
+# Analytics Files
+/google*.html
+
 # Test Files
 /phpinfo.php
 
