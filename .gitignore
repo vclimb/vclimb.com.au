@@ -1,0 +1,17 @@
+
+# OSX Specific System Files
+.DS_Store
+*.swp
+.Spotlight-V100
+.Trashes
+
+# Win Specific System Files
+ehthumbs.db
+Thumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Test Files
+/phpinfo.php
+
+# Automaticly added to end of file by tools
