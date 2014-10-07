@@ -13,6 +13,7 @@ $RECYCLE.BIN/
 
 # Analytics Files
 /google*.html
+/analyticstracking.php
 
 # Test Files
 /phpinfo.php
